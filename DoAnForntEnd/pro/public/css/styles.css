@@ -1,0 +1,28 @@
+*{
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.list1{
+    list-style-type: none;
+}
+.item{
+    display: inline;
+    text-decoration: none;
+    padding-right: 10px;
+    
+}
+.head{
+    background-color: #000;
+}
+.lte-nav-search{
+    max-width: 16%;
+    
+}
+.lte-nav-cart{
+    max-width: 16%;
+    
+}
+.lte-nav-login{
+    max-width: 16%;
+    
+}
